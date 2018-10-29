@@ -1,0 +1,54 @@
+body {
+	background: #fff;
+	font-family: sans-serif;
+}
+
+.transparent{
+	background-color: #fff;
+}
+
+
+/*Header*/
+.intro-head{
+	background-image: url(../img/h-l-img4.jpg);
+	background-size: cover;
+	background-repeat: no-repeat;
+	height: 30vh;
+	align-content: center;
+	align-items: center;
+	text-align: center;
+	color: #fff;
+	margin-bottom: 50px;
+}
+
+.introhead-text{
+	margin-top: 120px;
+	margin-bottom: 30px;
+}
+
+
+/*IntoSection*/
+.introsell{
+	text-align: center;
+
+}
+
+.introsell-head{
+	margin-top: -20px;
+}
+
+.introsell-text{
+	margin-top: 20px;
+	margin-right: 50px;
+	margin-left: 50px;
+}
+
+
+/*Call to Action*/
+.cta-standard{
+	text-align: center;
+	margin-top: 40px;
+	margin-bottom: 40px;
+}
+
+

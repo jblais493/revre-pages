@@ -1,0 +1,65 @@
+.navbar .main-navbar{
+	margin-bottom: 0px;
+	border: none;
+	background: #fff;
+}
+
+.intro-head{
+	background-image: url(../img/20CIEWE.jpg);
+	background-size: fit;
+	background-repeat: no-repeat;
+	height: 100%;
+	align-content: center;
+	margin-top: -30px;
+	align-items: center;
+	text-align: center;
+}
+
+.row .introhead1{
+	text-align: center;
+}
+
+.introhead-text{
+	padding-top: 200px;
+	margin: 30px 30px;
+	font-size: 60px;
+	font-family: helvetica;
+	text-align: center;
+	color: #fff;
+}
+
+.introhead-text2{
+	padding-top: 10px;
+    padding-bottom: 100px;
+	margin: 30px 30px;
+	font-size: 40px;
+	font-family: helvetica;
+	text-align: center;
+	color: #fff;
+}
+
+.headerbtn{
+	margin-bottom: 50px;
+}
+
+.brokername{
+    padding-top:30px;
+    font-size: 40px;    
+}
+
+.secondheader{
+	margin: 30px 30px;
+	font-size: 60px;
+	font-family: helvetica;
+	text-align: center;
+}
+
+.secondheaderitem {
+	font-size: 20px;
+}
+
+.infosection{
+	margin: 20px;
+	background-color: #000;
+	color: #fff;
+} 
